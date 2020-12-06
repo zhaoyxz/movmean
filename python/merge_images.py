@@ -20,4 +20,6 @@ def imgs2gif(files, outfile, duration):
     img, *imgs = [Image.open(f) for f in sorted(files)]
     img.save(fp=outfile, format='GIF', append_images=imgs,
              save_all=True, duration=duration, loop=0)
-
+jxaiand
+jdaiedjp
+jdie
